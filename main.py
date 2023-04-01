@@ -9,6 +9,5 @@ y:float = 1.5
 riyadh = milano = london = "capital_cities"
 
 #question_4
-my_age=33
-my_age=26
+my_age , my_age_2 = 26 , 18
 
