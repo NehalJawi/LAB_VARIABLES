@@ -1,8 +1,8 @@
 from ast import And
 
 
-my_fav_movie = "The Lion king"
-movie_rate = 3
+my_fav_movie = "The Lion King"
+movie_rate :int = 3
 movie_popularity_score = 72.65
 if movie_rate>=4 and movie_popularity_score > 80:
     print("highly Recommended")
